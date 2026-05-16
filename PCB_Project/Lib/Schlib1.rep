@@ -1,0 +1,13 @@
+CSV text has been written to file : Schlib1.csv
+
+Library Component Count : 6
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+CAP                 Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 2200pF, C0G, 30ppm/�C, 5%, 250V
+INA180              26V, 350kHz current sense amplifier
+R 0805              
+R 2512              
+STM32F030F4P6       ARM® Cortex®-M0 STM32F0 Microcontroller IC 32-Bit Single-Core 48MHz 16KB (16K x 8) FLASH
+led 0805            LED BLUE CLEAR 0805 SMD
