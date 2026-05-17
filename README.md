@@ -112,7 +112,15 @@ Add an RC low-pass filter at the INA180 output with cutoff frequency around 1 kH
 
 
 ## Project Structure
+├── PCB_Project/                               # PCB design files
 
+├── PowerTempMeasurement_I2C_slave_STM32F030/ # Sensor module firmware
+
+├── System_MasterI2C_STM32F103/               # I2C master test firmware
+
+├── report_Vietnamese/                        # Vietnamese report
+
+└── README.md
 
 
 
