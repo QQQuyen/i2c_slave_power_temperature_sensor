@@ -3,7 +3,7 @@ Embedded power and temperature monitoring module using STM32F030.
 
 ## Features
 - Voltage measurement (0-30V)
-- Current measurement using shunt + INA180
+- Current measurement using shunt + INA180 (0-10A)
 - Temperature measurement using NTC
 - I2C slave interface
 - Lookup table conversion
