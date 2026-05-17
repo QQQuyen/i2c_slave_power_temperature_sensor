@@ -65,8 +65,12 @@ Polling mode may produce unstable or incorrect channel readings during continuou
 
   <img width="469" height="413" alt="image" src="https://github.com/user-attachments/assets/87bd8b6c-d323-4dba-8d4b-6e048da8e8f4" />
 
+  
 
   <img width="500"  alt="image" src="https://github.com/user-attachments/assets/982f32d1-f316-4bca-a9a3-debaad302188" />
+
+  <img width="490" height="370" alt="image" src="https://github.com/user-attachments/assets/c6809a74-46bc-4034-a50e-1416ba3ae1a7" />
+
 
 ### Voltage measurement error <= 1%
 
